@@ -1,3 +1,6 @@
 node_modules
 arrays.js
 functions.js
+classes.js
+inheritance.js
+static.js
