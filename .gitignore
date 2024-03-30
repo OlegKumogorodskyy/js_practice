@@ -4,3 +4,5 @@ functions.js
 classes.js
 inheritance.js
 static.js
+async.js
+sync.js

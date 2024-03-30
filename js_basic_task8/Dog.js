@@ -1,4 +1,4 @@
-const Animal = require('./Animal');
+const Animal = require("./Animal");
 
 class Dog extends Animal {
   constructor(color, name, type, breed, size, age) {
