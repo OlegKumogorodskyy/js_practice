@@ -1,8 +1,4 @@
-function printTextWithDelay(text, seconds) {
-    setTimeout(() => {
-        console.log(text);
-    }, seconds * 1000);
-}
+import { printTextWithDelay } from './Task1.js';
 
 
 function callbackWithDelay(text, seconds, callback) {

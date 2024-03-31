@@ -3,5 +3,6 @@ function printTextWithDelay(text, seconds) {
     console.log(text);
   }, seconds * 1000);
 }
-
 printTextWithDelay("My text", 5);
+
+export { printTextWithDelay };
